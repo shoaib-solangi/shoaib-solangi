@@ -1,44 +1,53 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Muhammad Shoaib Solangi 👨‍💻
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/m-sho-aib)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/your-handle)
-[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-8A2BE2?style=flat-square)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/m-sho-aib)
+[![GitHub Followers](https://img.shields.io/github/followers/ShoaibSolangi?label=Follow&style=for-the-badge&color=181717&logo=github)](https://github.com/ShoaibSolangi)
 
-## 🚀 About Me
+## 🚀 Full Stack Developer | JavaScript Specialist
 
-I'm a [Your Profession/Role] specializing in [Key Skills/Technologies]. Passionate about [Specific Interests in Tech]. Currently:
-- 🔭 Working on [Current Project]
-- 🌱 Learning [Current Learning Focus]
-- 👯 Looking to collaborate on [Type of Projects]
-- 💬 Ask me about [Your Expertise Areas]
+Passionate about building scalable web applications with modern technologies. Currently:
+- 🔭 Working on **MERN stack projects** with advanced authentication
+- 🌱 Learning **GraphQL & Microservices Architecture**
+- 👯 Looking to collaborate on **open source JavaScript projects**
+- 💬 Ask me about **React optimization techniques**
+- ⚡ Fun fact: I solve coding problems while sipping chai ☕
 
 ## 🛠 Tech Stack
 
-### Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+### Frontend Expertise
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### Tools & Platforms
+### Backend Skills
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## 📈 GitHub Stats
+## 📈 GitHub Analytics
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShoaibSolangi&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShoaibSolangi&layout=compact&theme=radical&langs_count=8"/>
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+## 🏆 Featured Projects
 
-## 🏆 Highlights
+[![E-Commerce App](https://github-readme-stats.vercel.app/api/pin/?username=ShoaibSolangi&repo=ecommerce-app&theme=radical)](https://github.com/ShoaibSolangi/ecommerce-app)
+[![Task Management System](https://github-readme-stats.vercel.app/api/pin/?username=ShoaibSolangi&repo=task-manager&theme=radical)](https://github.com/ShoaibSolangi/task-manager)
 
-[![My Project](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-best-repo&theme=radical)](https://github.com/your-username/your-best-repo)
+## 📫 Let's Connect
 
-## 📫 How to Reach Me
-- Email: [your.email@domain.com](mailto:your.email@domain.com)
-- LinkedIn: [Your Name](https://linkedin.com/in/your-profile)
-- Portfolio: [your-portfolio.com](https://your-portfolio.com)
+- 📧 Email: shoaib.solangi@example.com
+- 💼 LinkedIn: [m-sho-aib](https://linkedin.com/in/m-sho-aib)
+- 🐦 Twitter: [@ShoaibDev](https://twitter.com/ShoaibDev)
+- 🌐 Portfolio: [shoaibsolangi.dev](https://shoaibsolangi.dev)
 
 ---
 
-⭐ From [Your Name](https://github.com/your-username)
+⭐ "First, solve the problem. Then, write the code." - John Johnson
